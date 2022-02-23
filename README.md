@@ -2,8 +2,8 @@
 - 👀 I’m interested in dat science, web and automation.
 - 🌱 I’m currently learning data science
 - 💞️ I’m working on a data science web application as my end of studies project 
-- 📫 How to reach me badrgorchene@gmail.com
-- keep it up :D
+- 📫 you can reach me with this email: badrgorchene@gmail.com
+- 🐍 python and ⚡ javascript are my preferred languages.
 
 <!---
 bunshee/bunshee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
