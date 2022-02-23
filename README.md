@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bunshee (Badr GORCHENE)
-- 👀 I’m interested in dat science, web and automation.
+- 👀 I’m interested in data science, web development and automation.
 - 🌱 I’m currently learning data science
 - 💞️ I’m working on a data science web application as my end of studies project 
 - 📫 you can reach me with this email: badrgorchene@gmail.com
