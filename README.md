@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bunshee (Badr GORCHENE)
 - 👀 I’m interested in data science, web development and automation.
 - 🌱 I’m currently learning data science
-- 💞️ I’m grinding working on improving myself
+- 💞️ I’m working on improving myself
 - 📫 you can reach me with this email: badrgorchene@gmail.com
 - 🐍 python and ⚡ javascript are my preferred languages.
 
