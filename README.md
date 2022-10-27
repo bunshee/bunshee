@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data science
 - 💞️ I’m working on improving myself
 - 📫 you can reach me with this email: badrgorchene@gmail.com
-- 🐍 python and ⚡ JavaScript/typeScript are my preferred languages.
+- 🐍 python,⚡ JavaScript and 🖋️ typeScript are my preferred languages.
 
 <!---
 bunshee/bunshee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
