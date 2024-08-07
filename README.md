@@ -2,17 +2,17 @@
 
 I am Bader Gorchene, a recent master's degree graduate in Data Science. I am currently seeking an entry-level position while also launching my career as a freelancer. My areas of expertise and interest include:
 
-• Developing Machine Learning (ML) and Deep Learning (DL) models
-• Web scraping
-• Creating microservices
-• Designing and implementing data pipelines
-• Developing Large Language Model (LLM) based applications
-• Natural Language Processing (NLP) beyond LLMs
-• Time series analysis and forecasting
-• Recommender systems
-• Computer vision applications
+- Developing Machine Learning (ML) and Deep Learning (DL) models
+- Web scraping
+- Creating microservices
+- Designing and implementing data pipelines
+- Developing Large Language Model (LLM) based applications
+- Natural Language Processing (NLP) beyond LLMs
+- Time series analysis and forecasting
+- Recommender systems
+- Computer vision applications
 
-# My Project
+## My Projects
 
 **Tech Stack**
 
