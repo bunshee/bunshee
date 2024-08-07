@@ -12,8 +12,6 @@ I am Bader Gorchene, a recent master's degree graduate in Data Science. I am cur
 - Recommender systems
 - Computer vision applications
 
-## My Projects
-
 **Tech Stack**
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4B2B.svg?style=flat-square&logo=pytorch)](https://pytorch.org/)
@@ -30,10 +28,6 @@ I am Bader Gorchene, a recent master's degree graduate in Data Science. I am cur
 [![Flask](https://img.shields.io/badge/Flask-2.2.3-orange?style=flat-square)](https://flask.palletsprojects.com/)
 [![Django](https://img.shields.io/badge/Django-4.2-green?style=flat-square)](https://www.djangoproject.com/)
 [![Docker](https://img.shields.io/badge/Docker-Latest-blue?style=flat-square&logo=docker)](https://www.docker.com/)
-
-**Database Technologies**
-
 [![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square)](https://en.wikipedia.org/wiki/SQL)
-[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square)](https://www.mongodb.com/)
 [![NoSQL](https://img.shields.io/badge/NoSQL-orange?style=flat-square)](https://en.wikipedia.org/wiki/NoSQL)
 
