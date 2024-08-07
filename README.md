@@ -34,6 +34,19 @@ I am Bader Gorchene, a recent master's degree graduate in Data Science. I am cur
 
 ### github stats 📈
 
+<div style="
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    text-align: center;
+">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunshee)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunshee&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+</div>
