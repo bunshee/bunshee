@@ -31,3 +31,8 @@ I am Bader Gorchene, a recent master's degree graduate in Data Science. I am cur
 [![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square)](https://en.wikipedia.org/wiki/SQL)
 [![NoSQL](https://img.shields.io/badge/NoSQL-orange?style=flat-square)](https://en.wikipedia.org/wiki/NoSQL)
 
+
+### github stats 📈
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
