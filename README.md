@@ -26,10 +26,10 @@ I am Bader Gorchene, a recent master's degree graduate in Data Science. I am cur
 [![Plotly%20Dash](https://img.shields.io/badge/Plotly%20Dash-purple?style=flat-square)](https://dash.plotly.com/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit-learn-yellow?style=flat-square)](https://scikit-learn.org/)
 [![Statsmodels](https://img.shields.io/badge/Statsmodels-red?style=flat-square)](https://www.statsmodels.org/stable/index.html)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.85.2-blue?style=for-the-badge)](https://fastapi.tiangolo.com/)
-[![Flask](https://img.shields.io/badge/Flask-2.2.3-orange?style=for-the-badge)](https://flask.palletsprojects.com/)
-[![Django](https://img.shields.io/badge/Django-4.2-green?style=for-the-badge)](https://www.djangoproject.com/)
-[![Docker](https://img.shields.io/badge/Docker-Latest-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.85.2-blue?style=flat-square)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/Flask-2.2.3-orange?style=flat-square)](https://flask.palletsprojects.com/)
+[![Django](https://img.shields.io/badge/Django-4.2-green?style=flat-square)](https://www.djangoproject.com/)
+[![Docker](https://img.shields.io/badge/Docker-Latest-blue?style=flat-square&logo=docker)](https://www.docker.com/)
 
 **Database Technologies**
 
