@@ -38,9 +38,7 @@ My expertise lies in the end-to-end development of data-driven solutions, from r
 
 ### GitHub Stats
 
-[![bunshee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bunshee&theme=react-dark)](https://github.com/ashish-sharma-27/github-readme-activity-graph)
-<br></br>
-[![wakatime](https://wakatime.com/badge/user/48984920-cfc0-4357-9d78-b125d8c36140/badge-json)](https://wakatime.com/@48984920-cfc0-4357-9d78-b125d8c36140)
+[![Top Repos](https://github-readme-stats.vercel.app/api/top-repos/?username=bunshee&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
 [![bunshee's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bunshee)](https://github.com/bunshee)
 <br></br>
