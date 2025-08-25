@@ -38,6 +38,6 @@ My expertise lies in the end-to-end development of data-driven solutions, from r
 
 ### GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunshee)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bunshee&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 <br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunshee&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/bunshee?template=classic&base.header=true&config.timezone=Europe%2FParis&is_live=1&plugins.commits=1&plugins.commits.limit=5&plugins.lines=1&plugins.lines.sections=code%2Cdata%2Cdocs%2Cother)
