@@ -1,18 +1,21 @@
-## ✨ About me ✨
+## Hi, I'm Bader Gorchene 👋
 
-I am Bader Gorchene, a recent master's degree graduate in Data Science. I am currently seeking an entry-level position while also launching my career as a freelancer. My areas of expertise and interest include:
+I am a recent Data Science master's graduate with a passion for building intelligent systems. I'm actively seeking an entry-level Data Scientist position while also exploring freelance opportunities.
 
-- Developing Machine Learning (ML) and Deep Learning (DL) models
-- Web scraping
-- Creating microservices
-- Designing and implementing data pipelines
-- Developing Large Language Model (LLM) based applications
-- Natural Language Processing (NLP) beyond LLMs
-- Time series analysis and forecasting
-- Recommender systems
-- Computer vision applications
+My expertise lies in the end-to-end development of data-driven solutions, from raw data to deployed applications.
 
-**Tech Stack**
+### What I Do
+
+* **Machine & Deep Learning:** Building, training, and deploying ML/DL models.
+* **Data Engineering:** Designing and implementing robust data pipelines.
+* **LLM Development:** Creating applications powered by Large Language Models.
+* **Web Scraping & Microservices:** Extracting data and serving models with scalable APIs.
+* **Time Series & NLP:** Analyzing and forecasting complex time-series data and working with natural language.
+* **Recommender Systems & Computer Vision:** Developing personalized recommendations and image-based applications.
+
+---
+
+### My Tech Stack
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4B2B.svg?style=flat-square&logo=pytorch)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
@@ -31,13 +34,10 @@ I am Bader Gorchene, a recent master's degree graduate in Data Science. I am cur
 [![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square)](https://en.wikipedia.org/wiki/SQL)
 [![NoSQL](https://img.shields.io/badge/NoSQL-orange?style=flat-square)](https://en.wikipedia.org/wiki/NoSQL)
 
+---
 
-### github stats 📈
+### GitHub Stats
 
-
-  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bunshee)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunshee&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-
