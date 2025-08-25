@@ -38,7 +38,7 @@ My expertise lies in the end-to-end development of data-driven solutions, from r
 
 ### GitHub Stats
 
-[![bunshee's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bunshee)](https://github.com/bunshee)
+[![wakatime](https://wakatime.com/badge/user/YOUR-WAKATIME-ID/badge.svg)](https://wakatime.com/@YOUR-WAKATIME-ID)
 <br></br>
 [![bunshee's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bunshee)](https://github.com/bunshee)
 <br></br>
