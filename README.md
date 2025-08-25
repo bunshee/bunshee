@@ -38,6 +38,8 @@ My expertise lies in the end-to-end development of data-driven solutions, from r
 
 ### GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bunshee&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=bunshee&theme=dark)](https://git.io/streak-stats)
 <br></br>
-![Metrics](https://metrics.lecoq.io/bunshee?template=classic&base.header=true&config.timezone=Europe%2FParis&is_live=1&plugins.commits=1&plugins.commits.limit=5&plugins.lines=1&plugins.lines.sections=code%2Cdata%2Cdocs%2Cother)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bunshee)](https://github.com/ryo-ma/github-profile-trophy)
+<br></br>
+[![bunshee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bunshee&theme=react-dark)](https://github.com/ashish-sharma-27/github-readme-activity-graph)
