@@ -5,7 +5,7 @@ I am a recent Data Science master's graduate with a passion for building intelli
 My expertise lies in the end-to-end development of data-driven solutions, from raw data to deployed applications.
 
 ### Portfolio
-[B.Gorchene](b-gorchene.vercel.app)
+[B.Gorchene](https://b-gorchene.vercel.app)
 
 ### What I Do
 
