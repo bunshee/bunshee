@@ -24,6 +24,3 @@ My expertise lies in the end-to-end development of data-driven solutions, from r
 <br></br>
 [![bunshee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bunshee&theme=react-dark)](https://github.com/ashish-sharma-27/github-readme-activity-graph)
 
-### BitBucket contributions:
-<img width="1081" height="503" alt="image" src="https://github.com/user-attachments/assets/73ffa2c2-d115-4d5e-bf8d-e18cd8a6dca7" />
-
